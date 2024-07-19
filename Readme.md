@@ -1,4 +1,4 @@
-# Build Backend With FastAPI - Virtual Candy Store
+# Build Backend With FastAPI - Virtual Candy Store Dev
 
 ## Repo Setup
 
